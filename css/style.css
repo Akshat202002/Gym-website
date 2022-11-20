@@ -16,7 +16,8 @@ body {
 }
 
 .left img {
-  width: 136px;
+  width: 60px;
+  height: 60px;
   filter: invert(100%);
 }
 
